@@ -2,40 +2,35 @@
 
 ### Full-Stack Developer | React • Next.js • Node.js • TypeScript
 
-I build modern, scalable web applications and management systems
-with a focus on clean UI, reliable backend systems, and practical solutions.
+I build modern web applications and management systems with a focus on
+clean interfaces, reliable backend systems, and practical solutions.
 
 ---
 
 ## 🚀 About Me
 
 - 👨‍💻 Full-Stack Developer
-- 🌐 Building modern web applications
 - ⚛️ React & Next.js
 - 🟢 Node.js & Express
-- 🟦 TypeScript & JavaScript
+- 🟦 JavaScript & TypeScript
 - 🗄️ PostgreSQL & MongoDB
 - 🔧 Git & GitHub
-- 📍 Gabiley, Somaliland
+- 🌍 Somaliland
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
+### Frontend
 React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
 
-**Backend**
+### Backend
+Node.js • Express.js • REST APIs
 
-Node.js • Express.js • REST API
-
-**Database**
-
+### Database
 PostgreSQL • MongoDB
 
-**Tools**
-
+### Tools
 Git • GitHub • VS Code • Docker
 
 ---
@@ -44,33 +39,34 @@ Git • GitHub • VS Code • Docker
 
 ### 🏦 Gabiley Bank Management System
 
-A modern banking management system designed for managing customers,
+A modern banking management system designed to manage customers,
 accounts, transactions, loans, and reports.
 
-**Tech:** React • Node.js • TypeScript • Database
+**Tech:** TypeScript • React • Node.js
 
 ---
 
 ### 🏨 Askar Management System
 
-A hotel management system designed to help manage hotel operations,
-customers, rooms, bookings, and daily activities.
+A management system designed to support hotel operations,
+customers, rooms, and daily activities.
 
-**Tech:** PHP • MySQL
+**Tech:** PHP
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedsh3ikh123-debug&show_icons=true&theme=dark)
+I use GitHub to build, share, and continuously improve my projects.
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: ahmedsh3ikh123@gmail.com
-- 💻 GitHub: https://github.com/ahmedsh3ikh123-debug
+📧 Email: ahmedsh3ikh123@gmail.com
+
+💻 GitHub: https://github.com/ahmedsh3ikh123-debug
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+### 💡 Build. Learn. Improve. Repeat. 🚀
